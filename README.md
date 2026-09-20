@@ -38,19 +38,6 @@ Berpengalaman dalam mengolah data kompleks untuk mendukung pengambilan keputusan
 
 ---
 
-### 🌟 Proyek Unggulan & Portofolio
-
-#### 🛒 [Tokopedia Retail Market Intelligence Platform](https://naufalzamani28-a11y.github.io/tokopedia-dashboard-by-Naufal/)
-*Platform dashboard interaktif berbasis analisis 29.000+ data transaksi ritel Tokopedia Indonesia.*
-* **Fokus:** Aglomerasi spasial pasar Jawa Barat (>68% GMV), elastisitas batas harga psikologis konsumen (Rp 35rb - Rp 100rb), serta *market leaderboard*.
-* **Tech:** *Python, Pandas, Plotly, JavaScript, GitHub Pages.*
-* 🔗 **[Lihat Web Interaktif](https://naufalzamani28-a11y.github.io/tokopedia-dashboard-by-Naufal/)** | 📂 **[Repositori Kode](https://github.com/naufalzamani28-a11y/tokopedia-dashboard-by-Naufal)**
-
-#### 🛰️ Analisis Spasial & Risiko Bencana (Ongoing Research)
-*Pemanfaatan Google Earth Engine (GEE) dan QGIS untuk pemetaan kerentanan wilayah, data spasial iklim, dan kesiapsiagaan risiko bencana.*
-
----
-
 ### ✍️ Publikasi & Media Edukasi
 * 📸 **Instagram Project:** Ikuti visualisasi dan bedah data harian di [**@rebatur_data**](https://instagram.com/rebatur_data)
 * 📝 **Medium Blog:** Baca tulisan analitis saya di [**@naufal_muhammad**](https://medium.com/@naufal_muhammad)
