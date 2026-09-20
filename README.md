@@ -1,30 +1,62 @@
-# 👨‍🔬 M. Naufal Zamani
-### Graduate Student in Statistics at Institut Teknologi Sepuluh Nopember (ITS)
-**Spatial Data Analyst | Quantitative Researcher | Academic & Tech Writer**
+<div align="center">
 
-📍 Surabaya, Indonesia | 📧 naufal.zamani28@gmail.com
+# 📊 M. Naufal Zamani
+### Statistician | Data Analyst | Spatial & Disaster Risk Analyst
+**Institut Teknologi Sepuluh Nopember (ITS)**
 
----
+> *"Data bukan hanya angka, tapi cerita yang jika dipahami, dapat mengubah keputusan menjadi solusi, dan masalah menjadi peluang."*  
+> **— Mengolah Data, Memahami Pola, Memberi Makna, Menciptakan Dampak —**
 
-### 🔬 Tentang Saya
-Saya adalah mahasiswa Magister (S2) Statistika di **Institut Teknologi Sepuluh Nopember (ITS)** dengan fokus pada **Statistika Spasial**, pemodelan kuantitatif, dan analisis data bisnis/ritel. Memiliki ketertarikan mendalam dalam memadukan ketelitian metode inferensia statistik dengan kebutuhan analitik industri modern.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M._Naufal_Zamani-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Portfolio-@rebatur__data-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/rebatur_data)
+[![Medium](https://img.shields.io/badge/Medium-@naufal__muhammad-12100E?style=for-the-badge&logo=medium)](https://medium.com/@naufal_muhammad)
+[![Email](https://img.shields.io/badge/Email-naufal.zamani2002@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:naufal.zamani2002@gmail.com)
 
-- 🔭 **Fokus Riset:** *Spatial Statistics, Spatial Autocorrelation (Moran's I/LISA), Geographically Weighted Regression (GWR), & E-Commerce Market Intelligence.*
-- ✍️ **Aktivitas:** Meneliti fenomena spasial, menulis artikel berbasis data, dan membangun visualisasi data interaktif.
-- 💬 **Keahlian:** *R, Python, Geospatial Mapping, Statistical Inference, Predictive Modeling, & Executive Storytelling.*
-
----
-
-### 🛠️ Tech Stack & Metodologi
-- **Bahasa & Alat:** Python, R, SQL, Tableau, Git/GitHub
-- **Pustaka Data:** Pandas, NumPy, SciPy, Plotly, GeoPandas, PySAL, Statsmodels
-- **Keahlian Analisis:** *Spatial Econometrics, Regression Modeling, Hypothesis Testing, Exploratory Data Analysis (EDA)*
+</div>
 
 ---
 
-### 🌟 Proyek Unggulan
-- **[Tokopedia Retail Market Intelligence Platform](https://naufalzamani28-a11y.github.io/tokopedia-dashboard-by-Naufal/)**  
-  *Analisis empiris berbasis 29.000+ data transaksi ritel Tokopedia menggunakan normalisasi spasial dan segmentasi elastisitas harga.*
+### 👨‍💻 Tentang Saya
+Lulusan dan mahasiswa pascasarjana **Statistika di Institut Teknologi Sepuluh Nopember (ITS)** dengan minat mendalam pada **Analisis Data, Pemodelan Statistika, dan Pemetaan Spasial (Geospatial Analysis)**. 
+
+Berpengalaman dalam mengolah data kompleks untuk mendukung pengambilan keputusan berbasis data (*data-driven decision making*), mencakup analisis data iklim, asesmen risiko bencana (*disaster risk assessment*), hingga *market intelligence* pada sektor ritel modern. Aktif membagikan wawasan data melalui inisiatif portofolio **@rebatur_data** dan artikel di **Medium**.
+
+- 🔭 **Fokus Riset & Analisis:** *Spatial Statistics, Climate & Disaster Analytics, Remote Sensing, Market Intelligence, & Econometric Modeling.*
+- 💡 **Filosofi Kerja:** Menggabungkan ketepatan metode statistik dengan dampak nyata bagi masyarakat dan industri.
+- 📍 **Lokasi:** Lombok, NTB / Surabaya (Terbuka untuk peluang On-site, Hybrid, & Remote).
 
 ---
-*Terbuka untuk kolaborasi riset, proyek konsultasi data spasial, dan diskusi ilmiah.*
+
+### 🛠️ Keahlian & Tech Stack
+
+| Kategori | Alat & Bahasa Pemrograman |
+| :--- | :--- |
+| **Bahasa Komputasi** | `Python`, `R`, `SQL (MySQL)` |
+| **Sistem Informasi Geografis (SIG)** | `QGIS`, `Google Earth Engine (GEE)` |
+| **Business Intelligence & Visualisasi** | `Tableau`, `Power BI`, `Microsoft Excel (Advanced)`, `Plotly` |
+| **Metodologi Statistik** | `SmartPLS`, *Spatial Autocorrelation*, *Regression Modeling*, *Time Series*, *Disaster Modeling* |
+
+---
+
+### 🌟 Proyek Unggulan & Portofolio
+
+#### 🛒 [Tokopedia Retail Market Intelligence Platform](https://naufalzamani28-a11y.github.io/tokopedia-dashboard-by-Naufal/)
+*Platform dashboard interaktif berbasis analisis 29.000+ data transaksi ritel Tokopedia Indonesia.*
+* **Fokus:** Aglomerasi spasial pasar Jawa Barat (>68% GMV), elastisitas batas harga psikologis konsumen (Rp 35rb - Rp 100rb), serta *market leaderboard*.
+* **Tech:** *Python, Pandas, Plotly, JavaScript, GitHub Pages.*
+* 🔗 **[Lihat Web Interaktif](https://naufalzamani28-a11y.github.io/tokopedia-dashboard-by-Naufal/)** | 📂 **[Repositori Kode](https://github.com/naufalzamani28-a11y/tokopedia-dashboard-by-Naufal)**
+
+#### 🛰️ Analisis Spasial & Risiko Bencana (Ongoing Research)
+*Pemanfaatan Google Earth Engine (GEE) dan QGIS untuk pemetaan kerentanan wilayah, data spasial iklim, dan kesiapsiagaan risiko bencana.*
+
+---
+
+### ✍️ Publikasi & Media Edukasi
+* 📸 **Instagram Project:** Ikuti visualisasi dan bedah data harian di [**@rebatur_data**](https://instagram.com/rebatur_data)
+* 📝 **Medium Blog:** Baca tulisan analitis saya di [**@naufal_muhammad**](https://medium.com/@naufal_muhammad)
+
+---
+<div align="center">
+  <i>Terbuka untuk kolaborasi riset spasial, konsultasi analitik data, dan proyek profesional.</i><br>
+  <b>M. Naufal Zamani — 2026</b>
+</div>
